@@ -30,17 +30,17 @@
       <img
         alt="avatar"
         class="hidden-sm-and-down"
-        src="https://raw.githubusercontent.com/guanpengchn/Figure/master/muma-blog.png"
+        src="https://raw.githubusercontent.com/catcatbai/catcatbai.github.io/dev/img/muma-blog.png"
         width="50px"
       >
       <v-toolbar-title class="font-weight-regular ml-2">牧码哟</v-toolbar-title>
       <v-spacer></v-spacer>
-      <!-- <v-btn icon @click="handleClick('https://github.com/guanpengchn')"> -->
+      <!-- <v-btn icon @click="handleClick('https://github.com/catcatbai')"> -->
       <!-- <v-icon>apps</v-icon> -->
       <a
         aria-label="View source on Github"
         class="github-corner"
-        href="https://github.com/guanpengchn"
+        href="https://github.com/catcatbai"
         target="_blank"
       >
         <svg

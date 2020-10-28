@@ -3,7 +3,7 @@
     <h3 style="color:rgba(21, 101, 192, 0.8);">Do fun. Be fun.</h3>
     <hr>
     <v-btn @click="handleClick('/article')" class="btn">Blog</v-btn>
-    <v-btn @click="handleClick('https://github.com/guanpengchn')" class="btn">GitHub</v-btn>
+    <v-btn @click="handleClick('https://github.com/catcatbai')" class="btn">GitHub</v-btn>
     <hr>
   </div>
 </template>

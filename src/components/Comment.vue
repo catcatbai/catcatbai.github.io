@@ -40,8 +40,8 @@ export default {
       comments: [],
       //   isLoading: false,
       hasMoreComment: false,
-      repoName: 'guanpengchn.github.io',
-      url: 'https://github.com/guanpengchn/guanpengchn.github.io/issues/'
+      repoName: 'catcatbai.github.io',
+      url: 'https://github.com/catcatbai/catcatbai.github.io/issues/'
     }
   },
   props:{

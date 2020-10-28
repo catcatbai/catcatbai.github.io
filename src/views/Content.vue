@@ -29,7 +29,7 @@ export default {
       article: {},
       comment: {},
       isProgress: false,
-      repoName: 'guanpengchn.github.io'
+      repoName: 'catcatbai.github.io'
     }
   },
   created() {

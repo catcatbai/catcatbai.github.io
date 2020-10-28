@@ -17,7 +17,7 @@
                 <v-img
                   :src="item.avatar"
                   class="grey lighten-2"
-                  lazy-src="https://raw.githubusercontent.com/guanpengchn/Figure/master/pic-loading.jpeg"
+                  lazy-src="https://raw.githubusercontent.com/catcatbai/catcatbai.github.io/dev/img/pic-loading.jpeg"
                   width="100px"
                 >
                   <v-layout align-center fill-height justify-center ma-0 slot="placeholder">
